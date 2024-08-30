@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Figby222/node-environmental-variables/issues"
   },
-  "homepage": "https://github.com/Figby222/node-environmental-variables#readme"
+  "homepage": "https://github.com/Figby222/node-environmental-variables#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
