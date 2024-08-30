@@ -1,0 +1,1 @@
+A repository used to practice Node.js' environmental variables
